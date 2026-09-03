@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst in Training | Ex-Full Stack Developer | Turning Data into Decisions</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
+  <a href="https://www.linkedin.com/in/kiranpreet-kaur-0b428b279/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:gillkiranpreet98@gmail.com">
